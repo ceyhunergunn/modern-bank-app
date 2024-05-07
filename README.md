@@ -1,4 +1,5 @@
-# Modern Bank App 
+# Modern Bank App
+
 2024 Ceyhun Ergün
 
-JavaScript, Tailwind
+https://modern-bank-hicci.netlify.app/
